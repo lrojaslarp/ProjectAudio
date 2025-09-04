@@ -1,0 +1,9 @@
+streamlit==1.36.0
+numpy
+scipy
+matplotlib
+scikit-learn
+librosa
+soundfile
+joblib
+pydub

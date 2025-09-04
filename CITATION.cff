@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CaLola · Laboratorio de Audio Infantil (Kit)"
+authors:
+  - family-names: "Equipo CaLola"
+    given-names: "Proyecto"
+    affiliation: "Laboratorio de Lenguaje y Datos"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "0.3.0"
+date-released: "2025-09-04"
+url: "https://github.com/organizacion/calola-lab"  # sustituir con el repo real (privado o publico)
+license: "MIT"
+keywords:
+  - audio infantil
+  - VAD
+  - MFCC
+  - laboratorio

@@ -1,0 +1,5 @@
+# Optional extras (install only if needed)
+webrtcvad
+torch
+torchaudio
+transformers
