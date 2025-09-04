@@ -1,0 +1,19 @@
+# Reporte de laboratorio
+
+## Espectrograma
+![Espectrograma](espectrograma.png)
+
+## VAD
+![VAD](vad.png)
+
+## Métricas
+```json
+{
+  "voiced_ratio": 0.5641025639579224,
+  "mean_speech_s": 0.55,
+  "mean_pause_s": 0.3400000000000001,
+  "zcr": 0.015672119876873076,
+  "spectral_centroid_hz": 1844.0208929075359,
+  "sr_hz": 16000
+}
+```
