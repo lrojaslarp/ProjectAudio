@@ -1,17 +1,25 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "CaLola · Laboratorio de Audio Infantil (Kit)"
+type: software
+title: "CaLola · Laboratorio de Audio Infantil (Kit de laboratorio)"
+version: v0.3.0-lab
+date-released: 2025-09-05
 authors:
-  - family-names: "Equipo CaLola"
-    given-names: "Proyecto"
-    affiliation: "Laboratorio de Lenguaje y Datos"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-version: "0.3.0"
-date-released: "2025-09-04"
-url: "https://github.com/organizacion/calola-lab"  # sustituir con el repo real (privado o publico)
-license: "MIT"
+  - family-names: "Rojas"
+    given-names: "Luis"
+    orcid: "https://orcid.org/0000-0002-4446-227X"
+    affiliation: "Universidad San Sebastián"
+license: MIT
+repository-code: "https://github.com/lrojaslarp/ProjectAudio.git"  
+url: "https://github.com/lrojaslarp/ProjectAudio.git"              
 keywords:
   - audio infantil
   - VAD
   - MFCC
   - laboratorio
+  - reproducible
+abstract: |
+  Entorno de laboratorio multipágina para análisis de audio infantil, extracción de rasgos
+  (voiced ratio, segmentos/pausas, ZCR, centroide, MFCC), VAD por energía y opción WebRTC,
+  entrenamiento piloto (LogisticRegression con CV=3) y evaluación (matriz de confusión,
+  classification report). Incluye scripts de evidencia y verificador de entorno.
