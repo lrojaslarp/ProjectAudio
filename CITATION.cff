@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+title: "CaLola Lab Audio Analysis Toolkit"
+version: v0.3.1-lab
+date-released: 2025-09-05
+authors:
+  - family-names: "Rojas"
+    given-names: "Luis"
+    orcid: "https://orcid.org/0000-0002-4446-227X"
+    affiliation: "Universidad San Sebastian"
+repository-code: "https://github.com/lrojaslarp/ProjectAudio.git"
+url: "https://github.com/lrojaslarp/ProjectAudio.git"
+license: MIT
